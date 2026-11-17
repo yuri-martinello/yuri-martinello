@@ -8,8 +8,8 @@
 - 🌐 Soy un desarrollador con conocimientos Full-Stack
 - 💻 Estoy aprendiendo <a href="https://rust-lang.org/">Rust</a>
 
-### Lenguajes
-#### Compilados
+## Lenguajes
+### Compilados
 <span>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge"/>   
 </span>
